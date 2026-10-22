@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # SexTech Jobs — 2026
 
-<sub><small>Last updated: Oct 20, 2026 at 17:00 UTC</small></sub>
+<sub><small>Last updated: Oct 22, 2026 at 17:06 UTC</small></sub>
 
 Daily SexTech engineering, product, and design jobs curated by Jobs in SexTech.
 Updated daily by [Jobs in SexTech](https://jobsinsextech.com?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs).
@@ -12,6 +12,9 @@ Visit [Jobs in SexTech](https://jobsinsextech.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Match Group](https://jobsinsextech.com/jobs/match-group-sr-manager-marketing-analytics-e16821b7?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Sr. Manager, Marketing Analytics](https://jobsinsextech.com/jobs/match-group-sr-manager-marketing-analytics-e16821b7?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Los Angeles, California | On Site | Full Time | Oct 21 |
+| **[Match Group](https://jobsinsextech.com/jobs/match-group-senior-research-operations-program-manager-eb560a82?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Senior Research Operations Program Manager](https://jobsinsextech.com/jobs/match-group-senior-research-operations-program-manager-eb560a82?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | New York, New York | On Site | Full Time | Oct 20 |
+| **[Flo Health](https://jobsinsextech.com/jobs/flo-health-creative-strategist-ab7ddb19?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Creative Strategist](https://jobsinsextech.com/jobs/flo-health-creative-strategist-ab7ddb19?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Vilnius | On Site | Full Time | Oct 20 |
 | **[Allara Health](https://jobsinsextech.com/jobs/allara-health-telehealth-registered-dietitian-ft-w2-e2b85817?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[*Telehealth Registered Dietitian \| FT W2](https://jobsinsextech.com/jobs/allara-health-telehealth-registered-dietitian-ft-w2-e2b85817?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | United States | On Site | Full Time | Oct 19 |
 | **[Allara Health](https://jobsinsextech.com/jobs/allara-health-remote-telehealth-registered-dietitian-ft-w2-158d80ee?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Remote Telehealth Registered Dietitian \| FT W2](https://jobsinsextech.com/jobs/allara-health-remote-telehealth-registered-dietitian-ft-w2-158d80ee?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | United States | On Site | Full Time | Oct 19 |
 | **[Allara Health](https://jobsinsextech.com/jobs/allara-health-remote-registered-dietitian-1099-200-sign-on-bonus-10568b64?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Remote Registered Dietitian (1099) \| $200 Sign-On Bonus](https://jobsinsextech.com/jobs/allara-health-remote-registered-dietitian-1099-200-sign-on-bonus-10568b64?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | United States | On Site | Full Time | Oct 19 |
@@ -56,21 +59,18 @@ Visit [Jobs in SexTech](https://jobsinsextech.com?utm_source=github&utm_medium=r
 | **[Lovehoney Group](https://jobsinsextech.com/jobs/lovehoney-group-head-of-us-warehouse-28de97ed?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Head of US Warehouse](https://jobsinsextech.com/jobs/lovehoney-group-head-of-us-warehouse-28de97ed?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Atlanta, GA | On Site | Full Time | Oct 14 |
 | **[Parsley Health](https://jobsinsextech.com/jobs/parsley-health-director-of-marketing-0172e62a?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Director of Marketing](https://jobsinsextech.com/jobs/parsley-health-director-of-marketing-0172e62a?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | New York, New York, United States; Remote | Remote | Full Time | Oct 14 |
 | **[Progyny](https://jobsinsextech.com/jobs/progyny-financial-reporting-manager-beeb51a5?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Financial Reporting Manager](https://jobsinsextech.com/jobs/progyny-financial-reporting-manager-beeb51a5?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | New York, NY, USA | On Site | Full Time | Oct 14 |
+| **[Midi Health](https://jobsinsextech.com/jobs/midi-health-collaborating-physician-1099-contract-virtual-women-s-health-375cfee6?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Collaborating Physician (1099 Contract) – Virtual Women’s Health](https://jobsinsextech.com/jobs/midi-health-collaborating-physician-1099-contract-virtual-women-s-health-375cfee6?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Mississippi (Remote) | Remote | Contract | Oct 14 |
+| **[Midi Health](https://jobsinsextech.com/jobs/midi-health-collaborating-physician-1099-contract-virtual-women-s-health-6374c862?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Collaborating Physician (1099 Contract) – Virtual Women’s Health](https://jobsinsextech.com/jobs/midi-health-collaborating-physician-1099-contract-virtual-women-s-health-6374c862?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | South Carolina (Remote) | Remote | Contract | Oct 14 |
 | **[Organon](https://jobsinsextech.com/jobs/organon-source-to-settle-sts-associate-specialist-invoice-processing-779a78cb?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Source To Settle (StS) Associate Specialist - Invoice Processing](https://jobsinsextech.com/jobs/organon-source-to-settle-sts-associate-specialist-invoice-processing-779a78cb?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Lisbon, Portugal | On Site | Full Time | Oct 14 |
-| **[Organon](https://jobsinsextech.com/jobs/organon-co-op-medical-device-engineer-2b40b783?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Co-Op - Medical Device Engineer](https://jobsinsextech.com/jobs/organon-co-op-medical-device-engineer-2b40b783?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Plymouth Meeting, PA, USA | On Site | Full Time | Oct 14 |
-| **[Hims & Hers](https://jobsinsextech.com/jobs/hims-and-hers-inventory-control-specialist-c7bb971e?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Inventory Control Specialist](https://jobsinsextech.com/jobs/hims-and-hers-inventory-control-specialist-c7bb971e?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Gilbert, AZ, USA | On Site | Full Time | Oct 14 |
-| **[Hims & Hers](https://jobsinsextech.com/jobs/hims-and-hers-manager-legal-programs-product-a514d821?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Manager, Legal Programs (Product)](https://jobsinsextech.com/jobs/hims-and-hers-manager-legal-programs-product-a514d821?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | United States · Remote | Remote | Full Time | Oct 14 |
-| **[Hims & Hers](https://jobsinsextech.com/jobs/hims-and-hers-quality-control-supervisor-744f5653?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Quality Control Supervisor](https://jobsinsextech.com/jobs/hims-and-hers-quality-control-supervisor-744f5653?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | New Albany, OH, USA | On Site | Full Time | Oct 14 |
-| **[Hims & Hers](https://jobsinsextech.com/jobs/hims-and-hers-pharmaceutical-manufacturing-operator-7b8eee45?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Pharmaceutical Manufacturing Operator](https://jobsinsextech.com/jobs/hims-and-hers-pharmaceutical-manufacturing-operator-7b8eee45?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Los Alamitos, CA, USA | On Site | Full Time | Oct 14 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 18 companies | 0 salary ranges listed
+**Current Stats:** 50 jobs | 28% remote | 20 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-20 archive](archive/2026-10-20.md)
+- [2026-10-22 archive](archive/2026-10-22.md)
 
 ## About This Repository
 
