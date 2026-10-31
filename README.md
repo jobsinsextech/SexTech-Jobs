@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # SexTech Jobs — 2026
 
-<sub><small>Last updated: Oct 30, 2026 at 17:59 UTC</small></sub>
+<sub><small>Last updated: Oct 31, 2026 at 17:14 UTC</small></sub>
 
 Daily SexTech engineering, product, and design jobs curated by Jobs in SexTech.
 Updated daily by [Jobs in SexTech](https://jobsinsextech.com?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs).
@@ -13,6 +13,11 @@ Visit [Jobs in SexTech](https://jobsinsextech.com?utm_source=github&utm_medium=r
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
 | **[Tia](https://jobsinsextech.com/jobs/tia-nurse-practitioner-physician-assistant-virtual-remote-b973c477?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Nurse Practitioner / Physician Assistant - Virtual - Remote](https://jobsinsextech.com/jobs/tia-nurse-practitioner-physician-assistant-virtual-remote-b973c477?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Remote | Remote | Full Time | Oct 30 |
+| **[Tia](https://jobsinsextech.com/jobs/tia-medical-assistant-west-hollywood-9d8c08db?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Medical Assistant - West Hollywood](https://jobsinsextech.com/jobs/tia-medical-assistant-west-hollywood-9d8c08db?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Los Angeles, California, United States | On Site | Full Time | Oct 30 |
+| **[Tia](https://jobsinsextech.com/jobs/tia-medical-assistant-culver-city-0a572257?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Medical Assistant - Culver City](https://jobsinsextech.com/jobs/tia-medical-assistant-culver-city-0a572257?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Los Angeles, California, United States | On Site | Full Time | Oct 30 |
+| **[Midi Health](https://jobsinsextech.com/jobs/midi-health-chief-of-clinical-operations-988af019?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Chief of Clinical Operations](https://jobsinsextech.com/jobs/midi-health-chief-of-clinical-operations-988af019?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Remote | Remote | Full Time | Oct 30 |
+| **[Allara Health](https://jobsinsextech.com/jobs/allara-health-director-of-engineering-data-6ae2fa5c?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Director of Engineering, Data](https://jobsinsextech.com/jobs/allara-health-director-of-engineering-data-6ae2fa5c?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | New York City Office | On Site | Full Time | Oct 30 |
+| **[Allara Health](https://jobsinsextech.com/jobs/allara-health-remote-clinical-recruiter-registered-dietitians-49c814db?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Remote Clinical Recruiter, Registered Dietitians](https://jobsinsextech.com/jobs/allara-health-remote-clinical-recruiter-registered-dietitians-49c814db?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | United States | On Site | Full Time | Oct 30 |
 | **[Maven Clinic](https://jobsinsextech.com/jobs/maven-clinic-senior-business-recruiter-contract-b3dd18ed?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Senior Business Recruiter - Contract](https://jobsinsextech.com/jobs/maven-clinic-senior-business-recruiter-contract-b3dd18ed?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Remote | Remote | Contract | Oct 29 |
 | **[Allara Health](https://jobsinsextech.com/jobs/allara-health-remote-registered-dietitian-1099-training-provided-200-bonus-c039954c?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Remote Registered Dietitian (1099) \| Training Provided + $200 Bonus](https://jobsinsextech.com/jobs/allara-health-remote-registered-dietitian-1099-training-provided-200-bonus-c039954c?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | New Jersey | On Site | Full Time | Oct 28 |
 | **[Flo Health](https://jobsinsextech.com/jobs/flo-health-principal-infrastructure-engineer-736e6cba?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Principal Infrastructure Engineer](https://jobsinsextech.com/jobs/flo-health-principal-infrastructure-engineer-736e6cba?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | London, England, United Kingdom | On Site | Full Time | Oct 28 |
@@ -57,20 +62,15 @@ Visit [Jobs in SexTech](https://jobsinsextech.com?utm_source=github&utm_medium=r
 | **[Flo Health](https://jobsinsextech.com/jobs/flo-health-engineering-manager-493ba168?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Engineering Manager](https://jobsinsextech.com/jobs/flo-health-engineering-manager-493ba168?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Vilnius | On Site | Full Time | Oct 16 |
 | **[Flo Health](https://jobsinsextech.com/jobs/flo-health-engineering-manager-8e08d296?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Engineering Manager](https://jobsinsextech.com/jobs/flo-health-engineering-manager-8e08d296?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | London | On Site | Full Time | Oct 16 |
 | **[Tia](https://jobsinsextech.com/jobs/tia-medical-assistant-ny-f9dcd52d?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Medical Assistant - NY](https://jobsinsextech.com/jobs/tia-medical-assistant-ny-f9dcd52d?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | New York, New York, United States | On Site | Full Time | Oct 15 |
-| **[Aylo](https://jobsinsextech.com/jobs/aylo-trust-and-safety-regulations-analyst-fb529039?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Trust & Safety Regulations Analyst](https://jobsinsextech.com/jobs/aylo-trust-and-safety-regulations-analyst-fb529039?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Montréal, Quebec | On Site | Full Time | Oct 15 |
-| **[Hims & Hers](https://jobsinsextech.com/jobs/hims-and-hers-director-technology-communications-hims-and-hers-465c2bf9?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Director, Technology Communications, Hims & Hers](https://jobsinsextech.com/jobs/hims-and-hers-director-technology-communications-hims-and-hers-465c2bf9?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | United States · Remote | Remote | Full Time | Oct 15 |
-| **[Hims & Hers](https://jobsinsextech.com/jobs/hims-and-hers-sr-process-and-operations-engineer-3cd3e160?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Sr. Process & Operations Engineer](https://jobsinsextech.com/jobs/hims-and-hers-sr-process-and-operations-engineer-3cd3e160?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Menlo Park, CA, USA | On Site | Full Time | Oct 15 |
-| **[Hims & Hers](https://jobsinsextech.com/jobs/hims-and-hers-sr-product-development-engineer-34bec553?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Sr. Product Development Engineer](https://jobsinsextech.com/jobs/hims-and-hers-sr-product-development-engineer-34bec553?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Menlo Park, CA, USA | On Site | Full Time | Oct 15 |
-| **[Hims & Hers](https://jobsinsextech.com/jobs/hims-and-hers-learning-lead-non-sterile-compounding-f91edace?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Learning Lead, Non Sterile Compounding](https://jobsinsextech.com/jobs/hims-and-hers-learning-lead-non-sterile-compounding-f91edace?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Gilbert, AZ, USA | On Site | Full Time | Oct 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 16 companies | 4 salary ranges listed
+**Current Stats:** 50 jobs | 18% remote | 17 companies | 5 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-30 archive](archive/2026-10-30.md)
+- [2026-10-31 archive](archive/2026-10-31.md)
 
 ## About This Repository
 
