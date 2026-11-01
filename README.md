@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # SexTech Jobs — 2026
 
-<sub><small>Last updated: Oct 31, 2026 at 17:14 UTC</small></sub>
+<sub><small>Last updated: Nov 1, 2026 at 17:55 UTC</small></sub>
 
 Daily SexTech engineering, product, and design jobs curated by Jobs in SexTech.
 Updated daily by [Jobs in SexTech](https://jobsinsextech.com?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs).
@@ -28,6 +28,7 @@ Visit [Jobs in SexTech](https://jobsinsextech.com?utm_source=github&utm_medium=r
 | **[Tia](https://jobsinsextech.com/jobs/tia-primary-care-np-pa-silver-lake-los-angeles-ca-onsite-3785f085?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Primary Care NP/PA - Silver Lake, Los Angeles, CA - Onsite](https://jobsinsextech.com/jobs/tia-primary-care-np-pa-silver-lake-los-angeles-ca-onsite-3785f085?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Los Angeles, California, United States | On Site | Full Time | Oct 26 |
 | **[Allara Health](https://jobsinsextech.com/jobs/allara-health-remote-registered-dietitian-full-time-w2-training-provided-a87c03c9?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Remote Registered Dietitian \| Full-Time W2 \| Training Provided](https://jobsinsextech.com/jobs/allara-health-remote-registered-dietitian-full-time-w2-training-provided-a87c03c9?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Indiana | On Site | Full Time | Oct 23 |
 | **[Aylo](https://jobsinsextech.com/jobs/aylo-javascript-software-developer-ii-c5914dd5?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[JavaScript Software Developer II](https://jobsinsextech.com/jobs/aylo-javascript-software-developer-ii-c5914dd5?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Thessaloniki, Greece | On Site | Full Time | Oct 23 |
+| **[Aylo](https://jobsinsextech.com/jobs/aylo-javascript-software-developer-ii-28160acf?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[JavaScript Software Developer II](https://jobsinsextech.com/jobs/aylo-javascript-software-developer-ii-28160acf?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Athens, Greece | On Site | Full Time | Oct 23 |
 | **[Aylo](https://jobsinsextech.com/jobs/aylo-javascript-software-developer-ii-59005f4a?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[JavaScript Software Developer II](https://jobsinsextech.com/jobs/aylo-javascript-software-developer-ii-59005f4a?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Nicosia, Cyprus | On Site | Full Time | Oct 23 |
 | **[Flo Health](https://jobsinsextech.com/jobs/flo-health-graphic-designer-3010650e?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Graphic Designer](https://jobsinsextech.com/jobs/flo-health-graphic-designer-3010650e?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Vilnius | On Site | Full Time | Oct 23 |
 | **[Flo Health](https://jobsinsextech.com/jobs/flo-health-freelance-motion-designer-pl-ua-469dfe82?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Freelance Motion Designer (PL/UA)](https://jobsinsextech.com/jobs/flo-health-freelance-motion-designer-pl-ua-469dfe82?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Poland | On Site | Full Time | Oct 23 |
@@ -61,7 +62,6 @@ Visit [Jobs in SexTech](https://jobsinsextech.com?utm_source=github&utm_medium=r
 | **[Parsley Health](https://jobsinsextech.com/jobs/parsley-health-phlebotomist-part-time-5004032d?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Phlebotomist (Part-Time)](https://jobsinsextech.com/jobs/parsley-health-phlebotomist-part-time-5004032d?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | New York, New York, United States | On Site | Full Time | Oct 16 |
 | **[Flo Health](https://jobsinsextech.com/jobs/flo-health-engineering-manager-493ba168?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Engineering Manager](https://jobsinsextech.com/jobs/flo-health-engineering-manager-493ba168?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Vilnius | On Site | Full Time | Oct 16 |
 | **[Flo Health](https://jobsinsextech.com/jobs/flo-health-engineering-manager-8e08d296?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Engineering Manager](https://jobsinsextech.com/jobs/flo-health-engineering-manager-8e08d296?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | London | On Site | Full Time | Oct 16 |
-| **[Tia](https://jobsinsextech.com/jobs/tia-medical-assistant-ny-f9dcd52d?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Medical Assistant - NY](https://jobsinsextech.com/jobs/tia-medical-assistant-ny-f9dcd52d?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | New York, New York, United States | On Site | Full Time | Oct 15 |
 
 ---
 
@@ -70,7 +70,7 @@ _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-31 archive](archive/2026-10-31.md)
+- [2026-11-01 archive](archive/2026-11-01.md)
 
 ## About This Repository
 
