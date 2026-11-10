@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # SexTech Jobs — 2026
 
-<sub><small>Last updated: Nov 9, 2026 at 22:17 UTC</small></sub>
+<sub><small>Last updated: Nov 10, 2026 at 19:41 UTC</small></sub>
 
 Daily SexTech engineering, product, and design jobs curated by Jobs in SexTech.
 Updated daily by [Jobs in SexTech](https://jobsinsextech.com?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs).
@@ -12,6 +12,12 @@ Visit [Jobs in SexTech](https://jobsinsextech.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Maven Clinic](https://jobsinsextech.com/jobs/maven-clinic-vp-consultant-relations-7e4ee8ab?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[VP, Consultant Relations](https://jobsinsextech.com/jobs/maven-clinic-vp-consultant-relations-7e4ee8ab?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Remote | Remote | Contract | Nov 9 |
+| **[Midi Health](https://jobsinsextech.com/jobs/midi-health-clinical-leader-physician-41d0b923?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Clinical Leader, Physician](https://jobsinsextech.com/jobs/midi-health-clinical-leader-physician-41d0b923?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Remote | Remote | Full Time | Nov 9 |
+| **[Midi Health](https://jobsinsextech.com/jobs/midi-health-senior-manager-influencer-marketing-74385772?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Senior Manager, Influencer Marketing](https://jobsinsextech.com/jobs/midi-health-senior-manager-influencer-marketing-74385772?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Remote | Remote | Full Time | Nov 9 |
+| **[Allara Health](https://jobsinsextech.com/jobs/allara-health-telemedicine-nurse-practitioner-flexible-schedule-9586e1d4?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Telemedicine Nurse Practitioner \| Flexible Schedule](https://jobsinsextech.com/jobs/allara-health-telemedicine-nurse-practitioner-flexible-schedule-9586e1d4?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | United States | On Site | Full Time | Nov 9 |
+| **[Lovehoney Group](https://jobsinsextech.com/jobs/lovehoney-group-ecommerce-trading-manager-94117ec8?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Ecommerce Trading Manager](https://jobsinsextech.com/jobs/lovehoney-group-ecommerce-trading-manager-94117ec8?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Zurich | On Site | Full Time | Nov 9 |
+| **[Flo Health](https://jobsinsextech.com/jobs/flo-health-senior-medical-advisor-59d14729?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Senior Medical Advisor](https://jobsinsextech.com/jobs/flo-health-senior-medical-advisor-59d14729?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | London | On Site | Full Time | Nov 9 |
 | **[Remedy (Thirty Madison)](https://jobsinsextech.com/jobs/remedy-thirty-madison-staff-physician-telehealth-1b32186a?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Staff Physician (Telehealth)](https://jobsinsextech.com/jobs/remedy-thirty-madison-staff-physician-telehealth-1b32186a?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Remote, US | Remote | Full Time | Nov 6 |
 | **[Aylo](https://jobsinsextech.com/jobs/aylo-system-administrator-a0933145?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[System Administrator](https://jobsinsextech.com/jobs/aylo-system-administrator-a0933145?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Montréal, Quebec | On Site | Full Time | Nov 6 |
 | **[Match Group](https://jobsinsextech.com/jobs/match-group-technical-project-management-intern-6271c781?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Technical Project Management Intern](https://jobsinsextech.com/jobs/match-group-technical-project-management-intern-6271c781?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Los Angeles, California | On Site | intern | Nov 6 |
@@ -56,21 +62,15 @@ Visit [Jobs in SexTech](https://jobsinsextech.com?utm_source=github&utm_medium=r
 | **[Remedy (Thirty Madison)](https://jobsinsextech.com/jobs/remedy-thirty-madison-senior-analytics-engineer-7f95e1e4?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Senior Analytics Engineer](https://jobsinsextech.com/jobs/remedy-thirty-madison-senior-analytics-engineer-7f95e1e4?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Summit, NJ | On Site | Full Time | Oct 23 |
 | **[Remedy (Thirty Madison)](https://jobsinsextech.com/jobs/remedy-thirty-madison-pharmacy-technician-5d66bb68?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Pharmacy Technician](https://jobsinsextech.com/jobs/remedy-thirty-madison-pharmacy-technician-5d66bb68?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Houston, TX | On Site | Full Time | Oct 23 |
 | **[Maven Clinic](https://jobsinsextech.com/jobs/maven-clinic-network-operations-manager-contracting-94e8d75f?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Network Operations Manager, Contracting](https://jobsinsextech.com/jobs/maven-clinic-network-operations-manager-contracting-94e8d75f?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | New York, New York, United States; Remote | Remote | Contract | Oct 22 |
-| **[Match Group](https://jobsinsextech.com/jobs/match-group-sr-manager-marketing-analytics-e16821b7?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Sr. Manager, Marketing Analytics](https://jobsinsextech.com/jobs/match-group-sr-manager-marketing-analytics-e16821b7?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Los Angeles, California | On Site | Full Time | Oct 21 |
-| **[Lovehoney Group](https://jobsinsextech.com/jobs/lovehoney-group-warehouse-inventory-supervisor-d7f18a38?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Warehouse Inventory Supervisor](https://jobsinsextech.com/jobs/lovehoney-group-warehouse-inventory-supervisor-d7f18a38?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Atlanta, GA | On Site | Full Time | Oct 21 |
-| **[Lovehoney Group](https://jobsinsextech.com/jobs/lovehoney-group-senior-b2b-warehouse-lead-99e6bd7d?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Senior B2B Warehouse Lead](https://jobsinsextech.com/jobs/lovehoney-group-senior-b2b-warehouse-lead-99e6bd7d?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Atlanta, GA | On Site | Full Time | Oct 21 |
-| **[Lovehoney Group](https://jobsinsextech.com/jobs/lovehoney-group-project-manager-physical-products-d9597f9d?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Project Manager (Physical Products)](https://jobsinsextech.com/jobs/lovehoney-group-project-manager-physical-products-d9597f9d?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Berlin | On Site | Full Time | Oct 21 |
-| **[Match Group](https://jobsinsextech.com/jobs/match-group-senior-research-operations-program-manager-eb560a82?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Senior Research Operations Program Manager](https://jobsinsextech.com/jobs/match-group-senior-research-operations-program-manager-eb560a82?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | New York, New York | On Site | Full Time | Oct 20 |
-| **[Flo Health](https://jobsinsextech.com/jobs/flo-health-creative-strategist-ab7ddb19?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Creative Strategist](https://jobsinsextech.com/jobs/flo-health-creative-strategist-ab7ddb19?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Vilnius | On Site | Full Time | Oct 20 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 10 companies | 12 salary ranges listed
+**Current Stats:** 50 jobs | 26% remote | 10 companies | 15 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-09 archive](archive/2026-11-09.md)
+- [2026-11-10 archive](archive/2026-11-10.md)
 
 ## About This Repository
 
