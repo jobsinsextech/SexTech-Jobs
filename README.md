@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # SexTech Jobs — 2026
 
-<sub><small>Last updated: Nov 12, 2026 at 19:53 UTC</small></sub>
+<sub><small>Last updated: Nov 13, 2026 at 19:38 UTC</small></sub>
 
 Daily SexTech engineering, product, and design jobs curated by Jobs in SexTech.
 Updated daily by [Jobs in SexTech](https://jobsinsextech.com?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs).
@@ -18,6 +18,7 @@ Visit [Jobs in SexTech](https://jobsinsextech.com?utm_source=github&utm_medium=r
 | **[Midi Health](https://jobsinsextech.com/jobs/midi-health-contract-clinical-recruiter-9d4173b2?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Contract Clinical Recruiter](https://jobsinsextech.com/jobs/midi-health-contract-clinical-recruiter-9d4173b2?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Remote | Remote | Contract | Nov 10 |
 | **[Midi Health](https://jobsinsextech.com/jobs/midi-health-professional-development-manager-b05a55fe?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Professional Development Manager](https://jobsinsextech.com/jobs/midi-health-professional-development-manager-b05a55fe?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Remote | Remote | Full Time | Nov 10 |
 | **[Flo Health](https://jobsinsextech.com/jobs/flo-health-graphic-designer-3-month-contract-06ee4412?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Graphic Designer - 3 month Contract](https://jobsinsextech.com/jobs/flo-health-graphic-designer-3-month-contract-06ee4412?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Ukraine | On Site | Contract | Nov 10 |
+| **[Flo Health](https://jobsinsextech.com/jobs/flo-health-graphic-designer-3-month-contract-fcafdef5?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Graphic Designer - 3 month Contract](https://jobsinsextech.com/jobs/flo-health-graphic-designer-3-month-contract-fcafdef5?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Poland | On Site | Contract | Nov 10 |
 | **[Flo Health](https://jobsinsextech.com/jobs/flo-health-graphic-designer-3-month-contract-9f98a31a?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Graphic Designer - 3 month Contract](https://jobsinsextech.com/jobs/flo-health-graphic-designer-3-month-contract-9f98a31a?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Vilnius | On Site | Contract | Nov 10 |
 | **[Aylo](https://jobsinsextech.com/jobs/aylo-invoicing-clerk-d62f04bb?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Invoicing Clerk](https://jobsinsextech.com/jobs/aylo-invoicing-clerk-d62f04bb?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Montréal, Quebec | On Site | Full Time | Nov 10 |
 | **[Match Group](https://jobsinsextech.com/jobs/match-group-business-development-operations-specialist-emea-4dcee24a?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Business Development Operations Specialist EMEA](https://jobsinsextech.com/jobs/match-group-business-development-operations-specialist-emea-4dcee24a?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Berlin, Germany | On Site | Full Time | Nov 10 |
@@ -61,16 +62,15 @@ Visit [Jobs in SexTech](https://jobsinsextech.com?utm_source=github&utm_medium=r
 | **[Tia](https://jobsinsextech.com/jobs/tia-regional-medical-director-california-la-and-sf-9648911a?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Regional Medical Director - California (LA & SF)](https://jobsinsextech.com/jobs/tia-regional-medical-director-california-la-and-sf-9648911a?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Los Angeles, California, United States; San Francisco, California, United States | On Site | Full Time | Oct 27 |
 | **[Match Group](https://jobsinsextech.com/jobs/match-group-staff-software-engineer-backend-f411a625?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Staff Software Engineer, Backend](https://jobsinsextech.com/jobs/match-group-staff-software-engineer-backend-f411a625?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | New York, New York | On Site | Full Time | Oct 27 |
 | **[Aylo](https://jobsinsextech.com/jobs/aylo-devops-engineer-c0ed8928?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[DevOps Engineer](https://jobsinsextech.com/jobs/aylo-devops-engineer-c0ed8928?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Montréal, Quebec | On Site | Full Time | Oct 27 |
-| **[Tia](https://jobsinsextech.com/jobs/tia-primary-care-np-pa-silver-lake-los-angeles-ca-onsite-3785f085?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Primary Care NP/PA - Silver Lake, Los Angeles, CA - Onsite](https://jobsinsextech.com/jobs/tia-primary-care-np-pa-silver-lake-los-angeles-ca-onsite-3785f085?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Los Angeles, California, United States | On Site | Full Time | Oct 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 28% remote | 10 companies | 13 salary ranges listed
+**Current Stats:** 50 jobs | 28% remote | 10 companies | 12 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-12 archive](archive/2026-11-12.md)
+- [2026-11-13 archive](archive/2026-11-13.md)
 
 ## About This Repository
 
