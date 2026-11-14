@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # SexTech Jobs — 2026
 
-<sub><small>Last updated: Nov 13, 2026 at 19:38 UTC</small></sub>
+<sub><small>Last updated: Nov 14, 2026 at 17:58 UTC</small></sub>
 
 Daily SexTech engineering, product, and design jobs curated by Jobs in SexTech.
 Updated daily by [Jobs in SexTech](https://jobsinsextech.com?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs).
@@ -12,6 +12,8 @@ Visit [Jobs in SexTech](https://jobsinsextech.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Flo Health](https://jobsinsextech.com/jobs/flo-health-customer-support-specialist-2-2-schedule-freelance-contract-039ee215?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Customer Support Specialist - 2/2 schedule - Freelance Contract](https://jobsinsextech.com/jobs/flo-health-customer-support-specialist-2-2-schedule-freelance-contract-039ee215?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Remote | Remote | Contract | Nov 13 |
+| **[Match Group](https://jobsinsextech.com/jobs/match-group-senior-privacy-counsel-tinder-c6e4aba8?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Senior Privacy Counsel, Tinder](https://jobsinsextech.com/jobs/match-group-senior-privacy-counsel-tinder-c6e4aba8?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | West Hollywood, California | On Site | Full Time | Nov 13 |
 | **[Tia](https://jobsinsextech.com/jobs/tia-phlebotomist-culver-city-838800eb?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Phlebotomist - Culver City](https://jobsinsextech.com/jobs/tia-phlebotomist-culver-city-838800eb?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Culver City, California, United States | On Site | Full Time | Nov 11 |
 | **[Allara Health](https://jobsinsextech.com/jobs/allara-health-telehealth-fnp-ft-w2-ddbcb951?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Telehealth FNP: FT W2](https://jobsinsextech.com/jobs/allara-health-telehealth-fnp-ft-w2-ddbcb951?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Arizona | On Site | Full Time | Nov 10 |
 | **[Allara Health](https://jobsinsextech.com/jobs/allara-health-1099-telemedicine-family-nurse-practitioner-flexible-schedule-2361f563?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[1099 Telemedicine Family Nurse Practitioner \| Flexible Schedule](https://jobsinsextech.com/jobs/allara-health-1099-telemedicine-family-nurse-practitioner-flexible-schedule-2361f563?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Arizona | On Site | Full Time | Nov 10 |
@@ -60,17 +62,15 @@ Visit [Jobs in SexTech](https://jobsinsextech.com?utm_source=github&utm_medium=r
 | **[Flo Health](https://jobsinsextech.com/jobs/flo-health-principal-infrastructure-engineer-736e6cba?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Principal Infrastructure Engineer](https://jobsinsextech.com/jobs/flo-health-principal-infrastructure-engineer-736e6cba?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | London, England, United Kingdom | On Site | Full Time | Oct 28 |
 | **[Aylo](https://jobsinsextech.com/jobs/aylo-business-development-manager-7157cee4?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Business Development Manager](https://jobsinsextech.com/jobs/aylo-business-development-manager-7157cee4?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Montréal, Quebec | On Site | Full Time | Oct 27 |
 | **[Tia](https://jobsinsextech.com/jobs/tia-regional-medical-director-california-la-and-sf-9648911a?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Regional Medical Director - California (LA & SF)](https://jobsinsextech.com/jobs/tia-regional-medical-director-california-la-and-sf-9648911a?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Los Angeles, California, United States; San Francisco, California, United States | On Site | Full Time | Oct 27 |
-| **[Match Group](https://jobsinsextech.com/jobs/match-group-staff-software-engineer-backend-f411a625?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Staff Software Engineer, Backend](https://jobsinsextech.com/jobs/match-group-staff-software-engineer-backend-f411a625?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | New York, New York | On Site | Full Time | Oct 27 |
-| **[Aylo](https://jobsinsextech.com/jobs/aylo-devops-engineer-c0ed8928?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[DevOps Engineer](https://jobsinsextech.com/jobs/aylo-devops-engineer-c0ed8928?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Montréal, Quebec | On Site | Full Time | Oct 27 |
 
 ---
 
-**Current Stats:** 50 jobs | 28% remote | 10 companies | 12 salary ranges listed
+**Current Stats:** 50 jobs | 30% remote | 10 companies | 12 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-13 archive](archive/2026-11-13.md)
+- [2026-11-14 archive](archive/2026-11-14.md)
 
 ## About This Repository
 
