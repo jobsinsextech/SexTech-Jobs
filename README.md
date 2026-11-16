@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # SexTech Jobs — 2026
 
-<sub><small>Last updated: Nov 15, 2026 at 18:47 UTC</small></sub>
+<sub><small>Last updated: Nov 16, 2026 at 21:58 UTC</small></sub>
 
 Daily SexTech engineering, product, and design jobs curated by Jobs in SexTech.
 Updated daily by [Jobs in SexTech](https://jobsinsextech.com?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs).
@@ -70,7 +70,7 @@ _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-15 archive](archive/2026-11-15.md)
+- [2026-11-16 archive](archive/2026-11-16.md)
 
 ## About This Repository
 
