@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # SexTech Jobs — 2026
 
-<sub><small>Last updated: Nov 20, 2026 at 20:06 UTC</small></sub>
+<sub><small>Last updated: Nov 21, 2026 at 19:09 UTC</small></sub>
 
 Daily SexTech engineering, product, and design jobs curated by Jobs in SexTech.
 Updated daily by [Jobs in SexTech](https://jobsinsextech.com?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs).
@@ -12,6 +12,11 @@ Visit [Jobs in SexTech](https://jobsinsextech.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Midi Health](https://jobsinsextech.com/jobs/midi-health-senior-operations-manager-analytics-and-workforce-planning-72fec3c0?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Senior Operations Manager, Analytics & Workforce Planning](https://jobsinsextech.com/jobs/midi-health-senior-operations-manager-analytics-and-workforce-planning-72fec3c0?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Remote | Remote | Full Time | Nov 21 |
+| **[Midi Health](https://jobsinsextech.com/jobs/midi-health-senior-operations-manager-performance-and-enablement-907cb756?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Senior Operations Manager, Performance & Enablement](https://jobsinsextech.com/jobs/midi-health-senior-operations-manager-performance-and-enablement-907cb756?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Remote | Remote | Full Time | Nov 21 |
+| **[Maven Clinic](https://jobsinsextech.com/jobs/maven-clinic-member-services-senior-associate-8a40d4b3?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Member Services Senior Associate](https://jobsinsextech.com/jobs/maven-clinic-member-services-senior-associate-8a40d4b3?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Remote | Remote | Full Time | Nov 20 |
+| **[Match Group](https://jobsinsextech.com/jobs/match-group-design-lead-hinge-futures-0fa0f715?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Design Lead, Hinge Futures](https://jobsinsextech.com/jobs/match-group-design-lead-hinge-futures-0fa0f715?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | New York, New York | On Site | Full Time | Nov 20 |
+| **[Match Group](https://jobsinsextech.com/jobs/match-group-support-specialist-bde0a314?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Support Specialist](https://jobsinsextech.com/jobs/match-group-support-specialist-bde0a314?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | New York, New York | On Site | Full Time | Nov 20 |
 | **[Remedy (Thirty Madison)](https://jobsinsextech.com/jobs/remedy-thirty-madison-pharmacy-technician-sterile-compounding-25-35-hour-72100c88?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Pharmacy Technician, Sterile Compounding ($25-$35/ hour)](https://jobsinsextech.com/jobs/remedy-thirty-madison-pharmacy-technician-sterile-compounding-25-35-hour-72100c88?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Houston, TX | On Site | Full Time | Nov 20 |
 | **[Match Group](https://jobsinsextech.com/jobs/match-group-director-trust-and-safety-communications-d6c43c13?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Director, Trust & Safety Communications](https://jobsinsextech.com/jobs/match-group-director-trust-and-safety-communications-d6c43c13?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | New York, New York | On Site | Full Time | Nov 19 |
 | **[Parsley Health](https://jobsinsextech.com/jobs/parsley-health-customer-support-representative-5f97771c?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Customer Support Representative](https://jobsinsextech.com/jobs/parsley-health-customer-support-representative-5f97771c?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Remote | Remote | Full Time | Nov 19 |
@@ -57,20 +62,15 @@ Visit [Jobs in SexTech](https://jobsinsextech.com?utm_source=github&utm_medium=r
 | **[Lovehoney Group](https://jobsinsextech.com/jobs/lovehoney-group-ecommerce-trading-manager-94117ec8?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Ecommerce Trading Manager](https://jobsinsextech.com/jobs/lovehoney-group-ecommerce-trading-manager-94117ec8?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Zurich | On Site | Full Time | Nov 9 |
 | **[Flo Health](https://jobsinsextech.com/jobs/flo-health-senior-medical-advisor-59d14729?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Senior Medical Advisor](https://jobsinsextech.com/jobs/flo-health-senior-medical-advisor-59d14729?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | London | On Site | Full Time | Nov 9 |
 | **[Remedy (Thirty Madison)](https://jobsinsextech.com/jobs/remedy-thirty-madison-staff-physician-telehealth-1b32186a?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Staff Physician (Telehealth)](https://jobsinsextech.com/jobs/remedy-thirty-madison-staff-physician-telehealth-1b32186a?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Remote, US | Remote | Full Time | Nov 6 |
-| **[Aylo](https://jobsinsextech.com/jobs/aylo-system-administrator-a0933145?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[System Administrator](https://jobsinsextech.com/jobs/aylo-system-administrator-a0933145?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Montréal, Quebec | On Site | Full Time | Nov 6 |
-| **[Match Group](https://jobsinsextech.com/jobs/match-group-technical-project-management-intern-6271c781?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Technical Project Management Intern](https://jobsinsextech.com/jobs/match-group-technical-project-management-intern-6271c781?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Los Angeles, California | On Site | intern | Nov 6 |
-| **[Match Group](https://jobsinsextech.com/jobs/match-group-user-experience-research-intern-8040e053?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[User Experience Research Intern](https://jobsinsextech.com/jobs/match-group-user-experience-research-intern-8040e053?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Los Angeles, California | On Site | intern | Nov 6 |
-| **[Match Group](https://jobsinsextech.com/jobs/match-group-backend-engineer-intern-99fe17c1?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Backend Engineer Intern](https://jobsinsextech.com/jobs/match-group-backend-engineer-intern-99fe17c1?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Palo Alto, California | On Site | intern | Nov 6 |
-| **[Tia](https://jobsinsextech.com/jobs/tia-regional-medical-director-women-s-health-and-primary-care-md-do-d2f9035c?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Regional Medical Director - Women’s Health & Primary Care (MD/DO)](https://jobsinsextech.com/jobs/tia-regional-medical-director-women-s-health-and-primary-care-md-do-d2f9035c?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Los Angeles, California, United States; San Francisco, California, United States | On Site | Full Time | Nov 6 |
 
 ---
 
-**Current Stats:** 50 jobs | 36% remote | 11 companies | 13 salary ranges listed
+**Current Stats:** 50 jobs | 42% remote | 11 companies | 13 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-20 archive](archive/2026-11-20.md)
+- [2026-11-21 archive](archive/2026-11-21.md)
 
 ## About This Repository
 
