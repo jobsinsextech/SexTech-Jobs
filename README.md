@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # SexTech Jobs — 2026
 
-<sub><small>Last updated: Nov 23, 2026 at 23:49 UTC</small></sub>
+<sub><small>Last updated: Nov 24, 2026 at 22:21 UTC</small></sub>
 
 Daily SexTech engineering, product, and design jobs curated by Jobs in SexTech.
 Updated daily by [Jobs in SexTech](https://jobsinsextech.com?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs).
@@ -12,6 +12,8 @@ Visit [Jobs in SexTech](https://jobsinsextech.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Maven Clinic](https://jobsinsextech.com/jobs/maven-clinic-client-executive-ce-payer-a5d8bb98?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Client Executive (CE), Payer](https://jobsinsextech.com/jobs/maven-clinic-client-executive-ce-payer-a5d8bb98?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | New York, New York, United States | On Site | Full Time | Nov 23 |
+| **[Aylo](https://jobsinsextech.com/jobs/aylo-graphic-designer-2a7a0fe2?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Graphic Designer](https://jobsinsextech.com/jobs/aylo-graphic-designer-2a7a0fe2?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Nicosia, Cyprus | On Site | Full Time | Nov 23 |
 | **[Midi Health](https://jobsinsextech.com/jobs/midi-health-senior-operations-manager-analytics-and-workforce-planning-72fec3c0?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Senior Operations Manager, Analytics & Workforce Planning](https://jobsinsextech.com/jobs/midi-health-senior-operations-manager-analytics-and-workforce-planning-72fec3c0?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Remote | Remote | Full Time | Nov 21 |
 | **[Midi Health](https://jobsinsextech.com/jobs/midi-health-senior-operations-manager-performance-and-enablement-907cb756?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Senior Operations Manager, Performance & Enablement](https://jobsinsextech.com/jobs/midi-health-senior-operations-manager-performance-and-enablement-907cb756?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Remote | Remote | Full Time | Nov 21 |
 | **[Maven Clinic](https://jobsinsextech.com/jobs/maven-clinic-member-services-senior-associate-8a40d4b3?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Member Services Senior Associate](https://jobsinsextech.com/jobs/maven-clinic-member-services-senior-associate-8a40d4b3?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Remote | Remote | Full Time | Nov 20 |
@@ -60,17 +62,15 @@ Visit [Jobs in SexTech](https://jobsinsextech.com?utm_source=github&utm_medium=r
 | **[Allara Health](https://jobsinsextech.com/jobs/allara-health-telemedicine-nurse-practitioner-flexible-schedule-9586e1d4?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Telemedicine Nurse Practitioner \| Flexible Schedule](https://jobsinsextech.com/jobs/allara-health-telemedicine-nurse-practitioner-flexible-schedule-9586e1d4?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | United States | On Site | Full Time | Nov 9 |
 | **[Lovehoney Group](https://jobsinsextech.com/jobs/lovehoney-group-sales-data-analyst-part-time-c8d41a30?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Sales Data Analyst (Part-time)](https://jobsinsextech.com/jobs/lovehoney-group-sales-data-analyst-part-time-c8d41a30?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Berlin | On Site | Full Time | Nov 9 |
 | **[Lovehoney Group](https://jobsinsextech.com/jobs/lovehoney-group-ecommerce-trading-manager-94117ec8?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Ecommerce Trading Manager](https://jobsinsextech.com/jobs/lovehoney-group-ecommerce-trading-manager-94117ec8?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Zurich | On Site | Full Time | Nov 9 |
-| **[Flo Health](https://jobsinsextech.com/jobs/flo-health-senior-medical-advisor-59d14729?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Senior Medical Advisor](https://jobsinsextech.com/jobs/flo-health-senior-medical-advisor-59d14729?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | London | On Site | Full Time | Nov 9 |
-| **[Remedy (Thirty Madison)](https://jobsinsextech.com/jobs/remedy-thirty-madison-staff-physician-telehealth-1b32186a?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Staff Physician (Telehealth)](https://jobsinsextech.com/jobs/remedy-thirty-madison-staff-physician-telehealth-1b32186a?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Remote, US | Remote | Full Time | Nov 6 |
 
 ---
 
-**Current Stats:** 50 jobs | 42% remote | 11 companies | 13 salary ranges listed
+**Current Stats:** 50 jobs | 40% remote | 11 companies | 12 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-23 archive](archive/2026-11-23.md)
+- [2026-11-24 archive](archive/2026-11-24.md)
 
 ## About This Repository
 
