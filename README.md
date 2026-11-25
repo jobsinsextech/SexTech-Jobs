@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # SexTech Jobs — 2026
 
-<sub><small>Last updated: Nov 24, 2026 at 22:21 UTC</small></sub>
+<sub><small>Last updated: Nov 25, 2026 at 21:38 UTC</small></sub>
 
 Daily SexTech engineering, product, and design jobs curated by Jobs in SexTech.
 Updated daily by [Jobs in SexTech](https://jobsinsextech.com?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs).
@@ -12,7 +12,10 @@ Visit [Jobs in SexTech](https://jobsinsextech.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Maven Clinic](https://jobsinsextech.com/jobs/maven-clinic-senior-provider-operations-manager-12bf408a?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Senior Provider Operations Manager](https://jobsinsextech.com/jobs/maven-clinic-senior-provider-operations-manager-12bf408a?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | New York, NY; Remote, US (Hub cities) | Remote | Full Time | Nov 25 |
+| **[Maven Clinic](https://jobsinsextech.com/jobs/maven-clinic-strategic-growth-executive-ebd19bd0?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Strategic Growth Executive](https://jobsinsextech.com/jobs/maven-clinic-strategic-growth-executive-ebd19bd0?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Remote | Remote | Full Time | Nov 24 |
 | **[Maven Clinic](https://jobsinsextech.com/jobs/maven-clinic-client-executive-ce-payer-a5d8bb98?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Client Executive (CE), Payer](https://jobsinsextech.com/jobs/maven-clinic-client-executive-ce-payer-a5d8bb98?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | New York, New York, United States | On Site | Full Time | Nov 23 |
+| **[Aylo](https://jobsinsextech.com/jobs/aylo-graphic-designer-5986af63?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Graphic Designer](https://jobsinsextech.com/jobs/aylo-graphic-designer-5986af63?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Thessaloniki, Greece | On Site | Full Time | Nov 23 |
 | **[Aylo](https://jobsinsextech.com/jobs/aylo-graphic-designer-2a7a0fe2?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Graphic Designer](https://jobsinsextech.com/jobs/aylo-graphic-designer-2a7a0fe2?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Nicosia, Cyprus | On Site | Full Time | Nov 23 |
 | **[Midi Health](https://jobsinsextech.com/jobs/midi-health-senior-operations-manager-analytics-and-workforce-planning-72fec3c0?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Senior Operations Manager, Analytics & Workforce Planning](https://jobsinsextech.com/jobs/midi-health-senior-operations-manager-analytics-and-workforce-planning-72fec3c0?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Remote | Remote | Full Time | Nov 21 |
 | **[Midi Health](https://jobsinsextech.com/jobs/midi-health-senior-operations-manager-performance-and-enablement-907cb756?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Senior Operations Manager, Performance & Enablement](https://jobsinsextech.com/jobs/midi-health-senior-operations-manager-performance-and-enablement-907cb756?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Remote | Remote | Full Time | Nov 21 |
@@ -59,18 +62,15 @@ Visit [Jobs in SexTech](https://jobsinsextech.com?utm_source=github&utm_medium=r
 | **[Maven Clinic](https://jobsinsextech.com/jobs/maven-clinic-vp-consultant-relations-7e4ee8ab?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[VP, Consultant Relations](https://jobsinsextech.com/jobs/maven-clinic-vp-consultant-relations-7e4ee8ab?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Remote | Remote | Contract | Nov 9 |
 | **[Midi Health](https://jobsinsextech.com/jobs/midi-health-clinical-leader-physician-41d0b923?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Clinical Leader, Physician](https://jobsinsextech.com/jobs/midi-health-clinical-leader-physician-41d0b923?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Remote | Remote | Full Time | Nov 9 |
 | **[Midi Health](https://jobsinsextech.com/jobs/midi-health-senior-manager-influencer-marketing-74385772?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Senior Manager, Influencer Marketing](https://jobsinsextech.com/jobs/midi-health-senior-manager-influencer-marketing-74385772?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Remote | Remote | Full Time | Nov 9 |
-| **[Allara Health](https://jobsinsextech.com/jobs/allara-health-telemedicine-nurse-practitioner-flexible-schedule-9586e1d4?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Telemedicine Nurse Practitioner \| Flexible Schedule](https://jobsinsextech.com/jobs/allara-health-telemedicine-nurse-practitioner-flexible-schedule-9586e1d4?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | United States | On Site | Full Time | Nov 9 |
-| **[Lovehoney Group](https://jobsinsextech.com/jobs/lovehoney-group-sales-data-analyst-part-time-c8d41a30?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Sales Data Analyst (Part-time)](https://jobsinsextech.com/jobs/lovehoney-group-sales-data-analyst-part-time-c8d41a30?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Berlin | On Site | Full Time | Nov 9 |
-| **[Lovehoney Group](https://jobsinsextech.com/jobs/lovehoney-group-ecommerce-trading-manager-94117ec8?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Ecommerce Trading Manager](https://jobsinsextech.com/jobs/lovehoney-group-ecommerce-trading-manager-94117ec8?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Zurich | On Site | Full Time | Nov 9 |
 
 ---
 
-**Current Stats:** 50 jobs | 40% remote | 11 companies | 12 salary ranges listed
+**Current Stats:** 50 jobs | 44% remote | 11 companies | 12 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-24 archive](archive/2026-11-24.md)
+- [2026-11-25 archive](archive/2026-11-25.md)
 
 ## About This Repository
 
