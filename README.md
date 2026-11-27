@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # SexTech Jobs — 2026
 
-<sub><small>Last updated: Nov 26, 2026 at 21:27 UTC</small></sub>
+<sub><small>Last updated: Nov 27, 2026 at 21:10 UTC</small></sub>
 
 Daily SexTech engineering, product, and design jobs curated by Jobs in SexTech.
 Updated daily by [Jobs in SexTech](https://jobsinsextech.com?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs).
@@ -12,6 +12,9 @@ Visit [Jobs in SexTech](https://jobsinsextech.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Flo Health](https://jobsinsextech.com/jobs/flo-health-video-editor-747a39fb?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Video Editor](https://jobsinsextech.com/jobs/flo-health-video-editor-747a39fb?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Lithuania \| Ukraine \| Poland | On Site | Full Time | Nov 26 |
+| **[Aylo](https://jobsinsextech.com/jobs/aylo-sr-network-specialist-6852dc49?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Sr. Network Specialist](https://jobsinsextech.com/jobs/aylo-sr-network-specialist-6852dc49?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Montréal, Quebec | On Site | Full Time | Nov 26 |
+| **[Aylo](https://jobsinsextech.com/jobs/aylo-sr-software-developer-i-ed48ac51?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Sr. Software Developer I](https://jobsinsextech.com/jobs/aylo-sr-software-developer-i-ed48ac51?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Montréal, Quebec | On Site | Full Time | Nov 26 |
 | **[Remedy (Thirty Madison)](https://jobsinsextech.com/jobs/remedy-thirty-madison-data-analyst-2a867feb?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Data Analyst](https://jobsinsextech.com/jobs/remedy-thirty-madison-data-analyst-2a867feb?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Summit, NJ | On Site | Full Time | Nov 26 |
 | **[Tia](https://jobsinsextech.com/jobs/tia-primary-care-physician-md-do-women-s-health-32-hours-week-c12c60b7?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Primary Care Physician (MD/DO) \| Women’s Health (32 Hours/Week)](https://jobsinsextech.com/jobs/tia-primary-care-physician-md-do-women-s-health-32-hours-week-c12c60b7?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Los Angeles, California, United States | On Site | Full Time | Nov 25 |
 | **[Tia](https://jobsinsextech.com/jobs/tia-lead-physician-women-s-health-and-primary-care-md-do-ab1f8617?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Lead Physician - Women's Health & Primary Care (MD/DO)](https://jobsinsextech.com/jobs/tia-lead-physician-women-s-health-and-primary-care-md-do-ab1f8617?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Culver City, California, United States | On Site | Full Time | Nov 25 |
@@ -59,18 +62,15 @@ Visit [Jobs in SexTech](https://jobsinsextech.com?utm_source=github&utm_medium=r
 | **[Tia](https://jobsinsextech.com/jobs/tia-phlebotomist-culver-city-838800eb?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Phlebotomist - Culver City](https://jobsinsextech.com/jobs/tia-phlebotomist-culver-city-838800eb?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Culver City, California, United States | On Site | Full Time | Nov 11 |
 | **[Allara Health](https://jobsinsextech.com/jobs/allara-health-telehealth-fnp-ft-w2-ddbcb951?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Telehealth FNP: FT W2](https://jobsinsextech.com/jobs/allara-health-telehealth-fnp-ft-w2-ddbcb951?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Arizona | On Site | Full Time | Nov 10 |
 | **[Allara Health](https://jobsinsextech.com/jobs/allara-health-1099-telemedicine-family-nurse-practitioner-flexible-schedule-2361f563?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[1099 Telemedicine Family Nurse Practitioner \| Flexible Schedule](https://jobsinsextech.com/jobs/allara-health-1099-telemedicine-family-nurse-practitioner-flexible-schedule-2361f563?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Arizona | On Site | Full Time | Nov 10 |
-| **[Midi Health](https://jobsinsextech.com/jobs/midi-health-contract-clinical-recruiter-9d4173b2?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Contract Clinical Recruiter](https://jobsinsextech.com/jobs/midi-health-contract-clinical-recruiter-9d4173b2?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Remote | Remote | Contract | Nov 10 |
-| **[Midi Health](https://jobsinsextech.com/jobs/midi-health-professional-development-manager-b05a55fe?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Professional Development Manager](https://jobsinsextech.com/jobs/midi-health-professional-development-manager-b05a55fe?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Remote | Remote | Full Time | Nov 10 |
-| **[Flo Health](https://jobsinsextech.com/jobs/flo-health-graphic-designer-3-month-contract-06ee4412?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Graphic Designer - 3 month Contract](https://jobsinsextech.com/jobs/flo-health-graphic-designer-3-month-contract-06ee4412?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Ukraine | On Site | Contract | Nov 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 38% remote | 11 companies | 11 salary ranges listed
+**Current Stats:** 50 jobs | 34% remote | 11 companies | 11 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-26 archive](archive/2026-11-26.md)
+- [2026-11-27 archive](archive/2026-11-27.md)
 
 ## About This Repository
 
