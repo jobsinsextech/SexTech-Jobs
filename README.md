@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # SexTech Jobs — 2026
 
-<sub><small>Last updated: Nov 27, 2026 at 21:10 UTC</small></sub>
+<sub><small>Last updated: Nov 28, 2026 at 19:57 UTC</small></sub>
 
 Daily SexTech engineering, product, and design jobs curated by Jobs in SexTech.
 Updated daily by [Jobs in SexTech](https://jobsinsextech.com?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs).
@@ -12,6 +12,7 @@ Visit [Jobs in SexTech](https://jobsinsextech.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Lovehoney Group](https://jobsinsextech.com/jobs/lovehoney-group-b2b-quality-assurance-supervisor-34319091?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[B2B Quality Assurance Supervisor](https://jobsinsextech.com/jobs/lovehoney-group-b2b-quality-assurance-supervisor-34319091?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Atlanta, GA | On Site | Full Time | Nov 28 |
 | **[Flo Health](https://jobsinsextech.com/jobs/flo-health-video-editor-747a39fb?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Video Editor](https://jobsinsextech.com/jobs/flo-health-video-editor-747a39fb?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Lithuania \| Ukraine \| Poland | On Site | Full Time | Nov 26 |
 | **[Aylo](https://jobsinsextech.com/jobs/aylo-sr-network-specialist-6852dc49?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Sr. Network Specialist](https://jobsinsextech.com/jobs/aylo-sr-network-specialist-6852dc49?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Montréal, Quebec | On Site | Full Time | Nov 26 |
 | **[Aylo](https://jobsinsextech.com/jobs/aylo-sr-software-developer-i-ed48ac51?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Sr. Software Developer I](https://jobsinsextech.com/jobs/aylo-sr-software-developer-i-ed48ac51?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Montréal, Quebec | On Site | Full Time | Nov 26 |
@@ -61,7 +62,6 @@ Visit [Jobs in SexTech](https://jobsinsextech.com?utm_source=github&utm_medium=r
 | **[Match Group](https://jobsinsextech.com/jobs/match-group-senior-privacy-counsel-tinder-c6e4aba8?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Senior Privacy Counsel, Tinder](https://jobsinsextech.com/jobs/match-group-senior-privacy-counsel-tinder-c6e4aba8?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | West Hollywood, California | On Site | Full Time | Nov 13 |
 | **[Tia](https://jobsinsextech.com/jobs/tia-phlebotomist-culver-city-838800eb?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Phlebotomist - Culver City](https://jobsinsextech.com/jobs/tia-phlebotomist-culver-city-838800eb?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Culver City, California, United States | On Site | Full Time | Nov 11 |
 | **[Allara Health](https://jobsinsextech.com/jobs/allara-health-telehealth-fnp-ft-w2-ddbcb951?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[Telehealth FNP: FT W2](https://jobsinsextech.com/jobs/allara-health-telehealth-fnp-ft-w2-ddbcb951?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Arizona | On Site | Full Time | Nov 10 |
-| **[Allara Health](https://jobsinsextech.com/jobs/allara-health-1099-telemedicine-family-nurse-practitioner-flexible-schedule-2361f563?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | **[1099 Telemedicine Family Nurse Practitioner \| Flexible Schedule](https://jobsinsextech.com/jobs/allara-health-1099-telemedicine-family-nurse-practitioner-flexible-schedule-2361f563?utm_source=github&utm_medium=repo&utm_campaign=github-sextech-jobs)** | Arizona | On Site | Full Time | Nov 10 |
 
 ---
 
@@ -70,7 +70,7 @@ _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-27 archive](archive/2026-11-27.md)
+- [2026-11-28 archive](archive/2026-11-28.md)
 
 ## About This Repository
 
